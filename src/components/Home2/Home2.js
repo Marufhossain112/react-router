@@ -4,7 +4,6 @@ import Header from "../../Header/Header";
 const Home2 = () => {
   return (
     <div>
-      <Header></Header>
       <h3>I am on hOme 2</h3>
     </div>
   );

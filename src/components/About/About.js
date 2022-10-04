@@ -4,7 +4,6 @@ const About = () => {
   return (
     // O am testng
     <div>
-      <Header></Header>
       <h3>I am on the about page</h3>
     </div>
   );
